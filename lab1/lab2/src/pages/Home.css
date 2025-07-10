@@ -1,0 +1,40 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  background: #fffdf6;
+}
+
+.logo-hero {
+  width: 260px; /* Bigger logo */
+  margin-bottom: 30px;
+}
+
+.band-row {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.band-image-frame {
+  padding: 10px;
+  border: 4px solid #ccc;
+  border-radius: 10px;
+  background-color: #f2f2f2;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  transition: transform 0.2s ease;
+}
+
+.band-image-frame:hover {
+  transform: scale(1.02);
+}
+
+.band-image {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  cursor: zoom-in;
+}

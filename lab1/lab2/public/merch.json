@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Hello Wind",
+    "type": "EP",
+    "price": "$4.99",
+    "image": "/Hello Wind.jpg"
+  },
+  {
+    "title": "Starry Romance",
+    "type": "Single",
+    "price": "$1.29",
+    "image": "/Starry Romance.jpg"
+  },
+  {
+    "title": "夏末笔记",
+    "type": "Single",
+    "price": "$1.29",
+    "image": "/夏末笔记.jpg"
+  },
+  {
+    "title": "出逃夏日",
+    "type": "Single",
+    "price": "$1.29",
+    "image": "/出逃夏日.jpg"
+  }
+]
